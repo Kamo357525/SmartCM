@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "433389759066",
+    "project_id": "smartcmmobile-cdd5a",
+    "storage_bucket": "smartcmmobile-cdd5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433389759066:android:117c0d9b7edb81e802c663",
+        "android_client_info": {
+          "package_name": "com.smartcmmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433389759066-9flbm3e8lk21k7l7pdkefapnoi7ei63o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartcmmobile",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "433389759066-f3k1e54nrigs3dnoivi70ebpi45kep4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartcmmobile",
+            "certificate_hash": "2df0c91730b7319846e39cd9349f74d0bcc39cb8"
+          }
+        },
+        {
+          "client_id": "433389759066-gjjhv61em9p5f61i87862dl51egbupat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AlzASAIoZUPWlwa0iTCDUE2dTwnhduY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433389759066-gjjhv61em9p5f61i87862dl51egbupat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
