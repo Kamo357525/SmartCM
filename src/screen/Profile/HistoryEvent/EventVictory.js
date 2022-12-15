@@ -7,6 +7,7 @@ import size from "../../../assets/gStyle/resho";
 
 
 
+
 function VictoryEvents(props) {
     return (
         <View style={style.victoryHome}>
