@@ -5,6 +5,7 @@ import Svg from 'react-native-svg';
 import style from './style'
 import size from "../../../assets/gStyle/resho";
 
+
 function VictoryEvents(props) {
     return (
         <View style={style.victoryHome}>
